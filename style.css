@@ -1,0 +1,57 @@
+h2{
+  font-size: 10px;
+}
+
+h1{
+  font-size: 40px;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+p{
+  font-size: 2px;
+}
+
+
+
+.text{
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+
+.main_nav ul{
+
+  list-style: none;
+
+  word-spacing: 20px;
+
+}
+
+.main_nav a{
+  text-decoration: none;
+  color: black;
+
+
+}
+
+.main_nav ul li{
+  display: inline-block;
+  letter-spacing: 2px;
+  font-size: 4px;
+  padding-top: 5px;
+
+}
+
+.main_nav ul li a:hover{
+  color: orange;
+}
+
+.img{
+
+  padding: 5px;
+  padding-bottom: 5px;
+}

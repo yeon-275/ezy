@@ -1,0 +1,31 @@
+.text{
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+
+}
+
+.support{
+
+  padding-top: 40px;
+}
+
+
+.list ul{
+
+font-size: 5px;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.list{
+
+  text-align: center;
+}
+
+.list ul li a:hover{
+
+  color: orange
+}

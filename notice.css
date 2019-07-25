@@ -1,0 +1,20 @@
+.pic{
+
+  width: 600px;
+  display: block;
+  margin: 40px auto;
+
+}
+
+p{
+
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: center;
+
+}
+
+h1{
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: center;
+  font-size: 4px;
+}
